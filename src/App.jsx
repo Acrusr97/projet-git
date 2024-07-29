@@ -1,4 +1,4 @@
-
+import {Footer} from '../src/Components/Footer/Footer';
 import './App.css'
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <section>
-
+      <Footer />
       </section>
     </>
   )
